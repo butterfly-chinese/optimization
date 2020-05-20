@@ -6,3 +6,5 @@ Professor Lieven Vandenberghe's homepage: http://www.seas.ucla.edu/~vandenbe/ind
 Courses 236B: Convex Optimization http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html 
 
 Courses 236C: Optimization methods for large-scale systems http://www.seas.ucla.edu/~vandenbe/ee236c.html
+
+Stephen Boyd's Teaching Video: https://www.bilibili.com/video/av32517559
